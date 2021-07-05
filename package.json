@@ -1,0 +1,12 @@
+{
+  "name": "burritojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "burrito.node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dallas <dallas.griffith4164@gmail.com>",
+  "license": "ISC"
+}
