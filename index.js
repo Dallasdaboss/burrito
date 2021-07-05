@@ -31,4 +31,4 @@ function unstuff(data) {
     return result
 }
 
-module.exports = { Burrito }
+module.exports = { stuff, unstuff }
